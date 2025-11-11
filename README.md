@@ -1,9 +1,9 @@
 # 🚀 Estudos em C#
-Este repositório guarda os exercícios práticos que fiz durante o curso de C# a partir do dia 03/10/2025.
+Este repositório guarda os exercícios práticos que fiz durante o curso de C# a partir do dia 03/10/2025 a 12/2025.
 
 O objetivo é entender os conceitos básicos da linguagem.
 
-# 🗂️ São projetos de console, cada um focado em um pilar básico do C#:
+# 🗂️ Cada um focado em um pilar básico do C#:
 
 variaveiseconstantes: O básico de como guardar informações.
 
@@ -13,7 +13,7 @@ operadoresrelacionais: Focado em comparações (maior, menor, igual).
 
 operadoreslogicos: Focado em decisões (E, OU, NÃO).
 
-## 🔧 Detalhes dos Projetos
+## 🔧 Detalhes
 
 1.variaveiseconstantes
 O que faz: Mostra como afirmar e usar variáveis ​​(que podem mudar) e constantes (que não mudam).
